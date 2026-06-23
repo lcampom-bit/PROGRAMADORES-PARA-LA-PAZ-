@@ -1,0 +1,12 @@
+# Ver ubicación actual
+pwd
+# Listar archivos y carpetas
+ls
+# Crear carpeta de trabajo
+mkdir semana2
+# Entrar a la carpeta
+cd semana2
+# Crear archivos de la actividad
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
