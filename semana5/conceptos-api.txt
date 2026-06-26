@@ -1,0 +1,1 @@
+Api es aquella que permite que varios sistemas se relacionen entre si, en una aplicación comunitaria permite a varios individuos comunicarse por un medio digital.

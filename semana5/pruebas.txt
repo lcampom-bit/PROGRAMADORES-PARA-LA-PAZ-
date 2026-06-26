@@ -1,0 +1,4 @@
+En la primera ruta http://localhost:3000: Se evidencia la correcta conexión del servidor, con un mensaje "servidor activo".
+En la segunda ruta http://localhost:3000/saludo: Muestra un mensaje "Hola comunidad"-
+Y en la última ruta http://localhost:3000/mensaje/juan: Observamos un saludo "Hola juan".
+Con estas pruebas podemos comprobar la correcta conexión entre las rutas y el servidor.
