@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 168
+ETag: W/"a8-p1+b9wp3CCKbCHzSLsH3eBDS630"
+Date: Fri, 26 Jun 2026 21:52:31 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
