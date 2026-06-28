@@ -1,0 +1,3 @@
+Activar la autenticación en dos pasos.
+No abrir enlaces o archivos de origen desconocido.
+Realizar copias de seguridad de la información.

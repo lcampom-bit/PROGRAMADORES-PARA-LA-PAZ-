@@ -1,0 +1,9 @@
+Qué información muestra cada comando.
+uname -a: Linux codespaces-a3475d 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+whoami:codespace
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+Verificar la versión del sistema operativo para garantizar la compatibilidad con aplicaciones y actualizaciones.
+Identificar la arquitectura del equipo antes de instalar software.
+Confirmar el usuario con el que se está trabajando para evitar ejecutar acciones con permisos incorrectos.
+Facilitar el diagnóstico y la solución de problemas del servidor.
+Obtener información necesaria para tareas de mantenimiento, seguridad y soporte técnico.

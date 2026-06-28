@@ -1,0 +1,5 @@
+Mantener el sistema actualizado.
+Activar la autenticación de dos factores (2FA).
+Realizar copias de seguridad periódicas.
+Cerrar sesión al finalizar el uso.
+Utilizar un antivirus o software de seguridad actualizado.
